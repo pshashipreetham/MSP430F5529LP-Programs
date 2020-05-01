@@ -1,0 +1,1 @@
+"./led.obj" "./main.obj" "./scheduler.obj" "./timer.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 
